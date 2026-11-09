@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 git status
 
 # Agregar archivo
-git at {nombre_archivo} | ejemplo: git add main.py
+git add {nombre_archivo} | ejemplo: git add main.py
 
 # Confirmar cambios
 git commit -m "backup"
